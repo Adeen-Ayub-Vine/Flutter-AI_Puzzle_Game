@@ -12,3 +12,8 @@ Users can drag & drop tiles to solve randomized puzzles.
 ## Tech Stack
 
 Flutter • Riverpod • Image Processing (compute isolate)
+
+## How to Run
+
+- flutter pub get
+- flutter run
